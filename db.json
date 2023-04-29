@@ -34,6 +34,13 @@
        "birthDateAuthor": "2000-19-11",
        "emailAuthor":"jcarpio@gmail.com",
        "cant" :0
-    }
+    },
+    {
+      "id":6,
+      "nameAuthor": "Carmen Loo",
+      "birthDateAuthor": "2010-19-1021",
+      "emailAuthor":"looo@gmail.com",
+      "cant" :0
+   }
   ]
 }
